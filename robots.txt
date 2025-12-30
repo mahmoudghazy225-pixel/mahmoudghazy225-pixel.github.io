@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mahmoudghazy225-pixel.github.io/sitemap.xml
